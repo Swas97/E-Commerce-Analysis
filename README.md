@@ -1,58 +1,57 @@
-📊 E-Commerce Sales Analysis Dashboard
-📌 Project Overview
+📊 **E-Commerce Sales Analysis Dashboard**
+📌**Project Overview**
 
-This Power BI dashboard provides a comprehensive analysis of E-commerce sales performance across multiple dimensions such as country, state, category, market, and shipping mode. The goal is to gain insights into sales trends, profitability, and customer behavior for better decision-making.
+This Power BI dashboard provides a comprehensive analysis of **E-commerce sales performance** across multiple dimensions such as country, state, category, market, and shipping mode. The goal is to gain insights into sales trends, profitability, and customer behavior for better decision-making.
 
-⚡ Key Insights
+⚡ **Key Insights**
 
-Total Sales: 4.11M
+**Total Sales:** 4.11M
 
-Total Profit: 285.20K
+**Total Profit:** 285.20K
 
-Quantity Sold: 35K
+**Quantity Sold:** 35K
 
-Shipping Cost: 440.32K
+**Shipping Cost:** 440.32K
 
-📈 Dashboard Features
+📈 **Dashboard Features**
 
-Sales by Country
+**Sales by Country**
 
 Visualizes contribution of countries (United States, Australia, China, France, India).
 
-Sales by State
+**Sales by State**
 
 State-wise revenue distribution (e.g., California, England, New South Wales).
 
-Sales by Category
+**Sales by Category**
 
 Breaks down sales into Furniture, Office Supplies, and Technology.
 
-Sales by Market
+**Sales by Market**
 
 Market segments like APAC, LATAM, EU, US, EMEA, Africa, Canada.
 
-Sales by Ship Mode
+**Sales by Ship Mode**
 
 Comparison of shipping methods (Standard Class, Second Class, First Class, Same Day).
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
+**Power BI Desktop** – Data visualization & dashboarding
 
-Power BI Desktop – Data visualization & dashboarding
+**Data Source:** (Mention here: e.g., Kaggle E-commerce Dataset / Superstore Dataset / Internal CSV files)
 
-Data Source: (Mention here: e.g., Kaggle E-commerce Dataset / Superstore Dataset / Internal CSV files)
+🚀 **How to Use**
 
-🚀 How to Use
+Open the .pbix file in **Power BI Desktop**.
 
-Open the .pbix file in Power BI Desktop.
-
-Explore filters by Category and Market on the right-hand panel.
+Explore filters by **Category and Market** on the right-hand panel.
 
 Interact with visuals (e.g., click on a country/market to drill down into details).
 
 📌 Business Use Case
 
-Helps stakeholders identify top-performing markets and categories.
+Helps stakeholders identify **top-performing markets and categories**.
 
-Provides insights into profitability vs. shipping costs.
+Provides insights into **profitability vs. shipping costs**.
 
-Assists in strategic decisions like inventory management, marketing, and logistics optimization.
+Assists in **strategic decisions** like inventory management, marketing, and logistics optimization.
